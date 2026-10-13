@@ -6,6 +6,8 @@ BY USING THIS FORK, YOU AGREE THAT YOU TRUST THE AUTHOR OF THIS FORK AND THAT YO
 
 MAKE SURE THAT YOU HAVE CHECKED THE SOURCE CODE AND UNDERSTAND WHAT IT DOES BEFORE USING IT.
 
+The komodo image that ships this Magisk line is recorded in [modified-grapheneos](https://github.com/FunMan1995/modified-grapheneos). That image's binary is [pixincreate/Magisk@189e867f](https://github.com/pixincreate/Magisk/commit/189e867f) (`189e867f:MAGISK:R (31000)`). This fork's `master` is `a0f4091` and publishes no release APK.
+
 ---
 
 ![](docs/images/logo.png)
